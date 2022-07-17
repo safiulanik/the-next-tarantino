@@ -4,7 +4,7 @@ import FavoriteIcon from '@mui/icons-material/Favorite';
 import HistoryIcon from '@mui/icons-material/History';
 import ListIcon from '@mui/icons-material/List';
 import DetailsCardContainer from '../DetailsCardContainer/DetailsCardContainer';
-import Details from '../details/Details';
+import Details from '../Details/Details';
 
 const Home = () => {
     const singleMovieInfo = {
